@@ -21,4 +21,8 @@ public class FirstClass {
         i+=10;
         System.out.println(i);
     }
+    public void show(){
+
+        System.out.println("人生天地间,忽如远行客");
+    }
 }
